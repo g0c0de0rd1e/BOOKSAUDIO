@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Line">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#A9C5D2</item>
+    </style>
+
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+</resources>
+
+
+
+
